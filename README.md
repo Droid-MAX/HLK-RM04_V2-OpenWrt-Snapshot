@@ -1,1 +1,1 @@
-# HLK-RM04-OpenWRT-Snapshot
+# HLK-RM04_V2-OpenWrt-Snapshot
