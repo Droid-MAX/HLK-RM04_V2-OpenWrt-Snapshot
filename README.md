@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/EQu1VBU.jpg)
 
-This is my personal router DIY project. The files in repo are only applicable to the development board of hlk-rm04 v2 version. The firmware files include a variety of usb wireless network card drivers, as well as usb serial port drivers, and aircrack-ng related tools, Please check the manifest file for details.
+This is my personal router DIY project. The files in repo are only applicable to the development board of hlk-rm04 v2 version, Please check the firmware manifest file for details.
 
 ## Related Links: ##
 
